@@ -1,4 +1,4 @@
-package br.inf.bueno;
+package aula4.exerc16;
 
 public class Cliente {
     private int codigo;
